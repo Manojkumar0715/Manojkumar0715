@@ -1,3 +1,4 @@
+![logo](https://github.com/Manojkumar0715/Manojkumar0715/blob/main/Data-Analytics.gif)
 <h1 align="center">Hi 👋, I'm Manojkumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
