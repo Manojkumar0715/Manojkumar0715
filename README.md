@@ -1,4 +1,4 @@
-![logo](https://github.com/Manojkumar0715/Manojkumar0715/blob/main/banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Manojkumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
