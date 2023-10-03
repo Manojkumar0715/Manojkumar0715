@@ -5,6 +5,8 @@
 
 - 🌱 - 🔭 I’m currently working on **BFS domain as Application Development & Reporting Analyst**
 
+- 👀 Looking forward to start my career in Data Analytics
+
 - 👨‍💻 -  My Skill Sets : **Postgresql, IBM Db2, IMS, Power Bi, MS Excel, Mainframe, Core-Banking, Payments, Swift Messages**
 
 - 💬 Ask me about **Data analysis related technologies**
