@@ -3,15 +3,15 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- 🌱 - 🔭 I’m currently working on **BFS domain as Application Development & Reporting Analyst**
+- 🌱 - I’m currently working on **BFS domain as Application Development & Reporting Analyst**
 
-- 👀 Looking forward to start my career in Data Analytics
+- 🔭 - Looking forward to start my career in Data Analytics
 
 - 👨‍💻 -  My Skill Sets : **Postgresql, IBM Db2, IMS, Power Bi, MS Excel, Mainframe, Core-Banking, Payments, Swift Messages**
 
-- 💬 Ask me about **Data analysis related technologies**
+- 💬 - Ask me about **Data analysis related technologies**
 
-- 📫 How to reach me **manojkumarv0715@gmail.com**
+- 📫 - How to reach me **manojkumarv0715@gmail.com**
 
 <p align="left">
 <h3 align="left">Languages and Tools:</h3>
